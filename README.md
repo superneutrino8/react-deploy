@@ -5,3 +5,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This project was deploying using GitHub Pages.
 
 This was done using nom package 'gh-pages'.
+
+[Click Here for Preview](https://superneutrino8.github.io/react-deploy/).
